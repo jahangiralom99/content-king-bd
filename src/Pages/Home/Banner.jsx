@@ -21,7 +21,7 @@ const Banner = () => {
           <p className="mt-3 text-[#ffcb05] font-bold">Enrollment Process</p>
           <p className="mt-3">Just 2 mins</p>
         </div>
-        <div className="text-center md:w-[60%] space-y-10">
+        <div className="text-center md:w-[60%] space-y-16">
           <h1 className="text-5xl tracking-wide font-extrabold ">
             নলেজ থেকে স্কিল;
             <br /> গন্তব্য হউক সফলতার পথে
@@ -120,8 +120,8 @@ const Banner = () => {
           </div>
         </div>
       </div>
-      <div className="mt-12 flex items-center justify-center gap-3 lg:mt-28 font-semibold">
-        <RiScrollToBottomLine className="text-xl text-[#ffcb05]" />
+      <div className="mt-12 flex items-center justify-center gap-3 lg:mt-44 font-semibold">
+        <RiScrollToBottomLine className="text-xl " />
         <p className="text-[#ffcb05]">Scroll Down</p>
       </div>
     </div>
